@@ -15,7 +15,7 @@
 baseURL = "https://traumatotravel.xyz"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Hugo tranquilpeak theme"
+title = "From Trauma to Travel"
 theme = "tranquilpeak"
 # disqusShortname = ""
 # googleAnalytics = "UA-123-45"
@@ -44,10 +44,10 @@ canonifyurls = true
 # Author
 # ------
 [author]
-  name = "Firstname Lastname"
-  bio = "Super bio with markdown support **COOL**"
-  job = "Your job title"
-  location = "France"
+  name = "Melissa Castille"
+  bio = "Bio Will go here."
+  job = "Dental Assistant"
+  location = "Colorado"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "thibaud.lepretre@gmail.com"
   # Your profile picture
