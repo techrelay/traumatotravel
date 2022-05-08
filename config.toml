@@ -1,0 +1,4 @@
+baseURL = 'https://traumatotravel.xyz'
+languageCode = 'en-us'
+title = 'From Trauma to Travel'
+theme = "tranquilpeak"
