@@ -1,7 +1,7 @@
 ---
 title: "Intro"
 date: 2022-05-07T19:27:41-06:00
-tag: ['FTT','From Truma to Travel','Blog']
+tags: ['FTT','From Truma to Travel','Blog']
 ---
 
 Pinch me. This is really my life?! How can this even be real?? I ask myself often how I managed to embark on such a huge adventure-totally alone. Trauma. That’s how. Being so broken and Ashamed of yourself that you felt no other option than to start over-totally solo. This journey started in the middle of COVID:year one 2020. Sept of 2020 I hopped a plane with three suitcases and never looked back. Okay, that may not be totally true, but I never went back. (Not to stay🙃).
