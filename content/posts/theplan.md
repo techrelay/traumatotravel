@@ -1,5 +1,5 @@
 ---
-title: "The-Plan"
+title: "The Plan"
 date: 2022-05-08T19:27:41-06:00
 ---
 
