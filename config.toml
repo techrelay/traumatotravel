@@ -381,6 +381,6 @@ canonifyurls = true
   # --------------------
   # Footer configuration
   # --------------------
-  # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
+  # Customize copyright value "© 2022 <CUSTOMIZATION>. All Rights Reserved"
   #  [params.footer]
-  #    copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
+  #    copyright = "<a href=\"https://techrelay.xyz">Powered By Tech Relay</a>"
