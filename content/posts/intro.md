@@ -1,5 +1,5 @@
 ---
-title: "Intro"
+title: "Meet The Blogger"
 date: 2022-05-07T19:27:41-06:00
 tags: ['FTT','From Truma to Travel','Blog']
 ---
