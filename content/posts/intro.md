@@ -11,3 +11,5 @@ Roughly 18 months later, here I am happily divorced, and enthralled in this wond
 Before the ’new’ begins, the ‘current’ and ‘before’ are super important parts of this incredible journey I’ve been on. You gotta start at the beginning for the growth to make sense. 
 
 On to post two!
+
+{{< instagram Cf0Qg5ID4p7 hidecaption >}}
