@@ -1,6 +1,6 @@
 ---
 title: "Nick On Scene"
-date: 2022-01-08T19:27:41-06:00
+date: 2022-08-01T19:27:41-06:00
 ---
 
 Nick. Nicholas. Nicholas tucker. Smh!  
