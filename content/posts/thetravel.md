@@ -1,8 +1,7 @@
 ---
 title: "How'd I get to the Travel"
-date: 2022-05-07T19:27:41-06:00
+date: 2022-08-03T19:27:41-06:00
 ---
-
 
 After spending so many years suppressing my true self  (and parts that were beneficial to my authentic self) trying to save a marriage that was already lost, I promised myself that a huge part of this new journey was to adventure and travel and enjoy as many things and places as possible. I knew I had been living under a rock. I had a huge imposter complex as well. I was (and still am) hugely over independent due to the past. I really sat and told myself that I couldn’t make it alone and I had no other options. That was the biggest lie I’ve ever told myself.  
 

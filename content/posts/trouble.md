@@ -1,6 +1,6 @@
 ---
 title: "$$ Trouble"
-date: 2022-04-08T19:27:41-06:00
+date: 2022-08-04T19:27:41-06:00
 ---
 
 Only thing worse than bad credit history, is no credit history. RV shopping has come to an abrupt halt- indefinitely. The plan has changed again (insert hardddd eye roll). From a conversion van, to a class C, to a class A, to a car. A CAR!! (insert face palm). Do we need a car? Yes. Do we want a car? Maybe. Do we want a car more than an RV? NOOO!!!! 😭 Credit is a bitch. Or No credit. Or bad credit. Or no credit history. History. History. I've been trying to forget the history and these people require it. How rude. 

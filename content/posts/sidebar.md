@@ -1,6 +1,6 @@
 ---
 title: "Side Bar"
-date: 2022-02-08T19:27:41-06:00
+date: 2022-08-02T19:27:41-06:00
 ---
 
 Healing from trauma is just as weird as the memes and posts say.  
