@@ -1,5 +1,5 @@
 ---
-title: "Hello, again!"
+title: "Hello again!"
 date: 2023-03-27T19:27:41-06:00
 tags: ['FTT','From Truma to Travel','Blog']
 ---
