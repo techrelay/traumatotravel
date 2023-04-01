@@ -348,14 +348,14 @@ canonifyurls = true
   # --------------
   [params.comment]
     [params.comment.disqus]
-      enable = true
+      enable = false
       shortname = "hugo-tranquilpeak-theme"
     [params.comment.gitalk]
-      enable = false
-      # clientId =
-      # clientSecret =
-      # owner =
-      # repo =
+      enable = true
+      clientId = e7899daac2c4e66483b0 
+      clientSecret = 791226910117a287fba2355f8f325eb1185a2bb3
+      owner = zippyy
+      repo = traumatotravel
       # See all options: https://github.com/gitalk/gitalk#options
       [params.comment.gitalk.options]
         language = "en"
