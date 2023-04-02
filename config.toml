@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 title = "From Trauma to Travel"
 theme = "tranquilpeak"
 # disqusShortname = ""
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "G-42DKP048JP"
 paginate = 7
 canonifyurls = true
 
